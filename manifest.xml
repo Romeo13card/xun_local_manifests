@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="ssh://git@github.com/Xiaomi-Redmi-Pad-SE-Resources"
+  <remote fetch="https://github.com/Xiaomi-Redmi-Pad-SE-Resources"
           name="xun-dev"
           revision="lineage-23.2-caf-sm6225" />
 
