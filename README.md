@@ -2,5 +2,5 @@
 <p align="center" id="description">xun_local_manifests </p>
 
 ```
-git clone https://github.com/Romeo13card/xun_local_manifest.git -b lineage-23.2 .repo/local_manifests
+git clone https://github.com/Romeo13card/xun_local_manifests.git -b lineage-23.2 .repo/local_manifests
 ```
