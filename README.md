@@ -2,5 +2,5 @@
 <p align="center" id="description">xun_local_manifests </p>
 
 ```
-git clone https://github.com/Romeo13card/xun_local_manifests.git -b lineage-23.2 .repo/local_manifests
+rm -rf .repo/local_manifests && curl -o .repo/local_manifests/local_manifest.xml https://raw.githubusercontent.com/Romeo13card/xun_local_manifests/refs/heads/lineage-23.2/manifest.xml --create-dirs
 ```
